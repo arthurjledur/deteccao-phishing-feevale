@@ -1,0 +1,32 @@
+atributo,papel,tipo,valores,faltantes,qtd_valores_distintos,categoria_majoritaria_pct
+having_IP_Address,entrada,categórico codificado como inteiro,"-1, 1",0,2,65.68973315241972
+URL_Length,entrada,categórico codificado como inteiro,"-1, 0, 1",0,3,81.04929895974672
+Shortining_Service,entrada,categórico codificado como inteiro,"-1, 1",0,2,86.93803708729082
+having_At_Symbol,entrada,categórico codificado como inteiro,"-1, 1",0,2,85.02939846223428
+double_slash_redirecting,entrada,categórico codificado como inteiro,"-1, 1",0,2,87.0737222976029
+Prefix_Suffix,entrada,categórico codificado como inteiro,"-1, 1",0,2,86.7480777928539
+having_Sub_Domain,entrada,categórico codificado como inteiro,"-1, 0, 1",0,3,36.81592039800995
+SSLfinal_State,entrada,categórico codificado como inteiro,"-1, 0, 1",0,3,57.268204432383534
+Domain_registeration_length,entrada,categórico codificado como inteiro,"-1, 1",0,2,66.83853459972863
+Favicon,entrada,categórico codificado como inteiro,"-1, 1",0,2,81.42921754862053
+port,entrada,categórico codificado como inteiro,"-1, 1",0,2,86.41338760741746
+HTTPS_token,entrada,categórico codificado como inteiro,"-1, 1",0,2,83.75395748530077
+Request_URL,entrada,categórico codificado como inteiro,"-1, 1",0,2,59.33966530981456
+URL_of_Anchor,entrada,categórico codificado como inteiro,"-1, 0, 1",0,3,48.27679782903663
+Links_in_tags,entrada,categórico codificado como inteiro,"-1, 0, 1",0,3,40.24423337856174
+SFH,entrada,categórico codificado como inteiro,"-1, 0, 1",0,3,76.34554500226142
+Submitting_to_email,entrada,categórico codificado como inteiro,"-1, 1",0,2,81.78199909543193
+Abnormal_URL,entrada,categórico codificado como inteiro,"-1, 1",0,2,85.26458616010855
+Redirect,entrada,categórico codificado como inteiro,"0, 1",0,2,88.43057440072366
+on_mouseover,entrada,categórico codificado como inteiro,"-1, 1",0,2,88.10492989597468
+RightClick,entrada,categórico codificado como inteiro,"-1, 1",0,2,95.69425599276346
+popUpWidnow,entrada,categórico codificado como inteiro,"-1, 1",0,2,80.66938037087291
+Iframe,entrada,categórico codificado como inteiro,"-1, 1",0,2,90.8457711442786
+age_of_domain,entrada,categórico codificado como inteiro,"-1, 1",0,2,53.061962912709184
+DNSRecord,entrada,categórico codificado como inteiro,"-1, 1",0,2,68.85572139303483
+web_traffic,entrada,categórico codificado como inteiro,"-1, 0, 1",0,3,52.74536408864767
+Page_Rank,entrada,categórico codificado como inteiro,"-1, 1",0,2,74.18362731795568
+Google_Index,entrada,categórico codificado como inteiro,"-1, 1",0,2,86.078697421981
+Links_pointing_to_page,entrada,categórico codificado como inteiro,"-1, 0, 1",0,3,55.68521031207598
+Statistical_report,entrada,categórico codificado como inteiro,"-1, 1",0,2,85.97919493441881
+Result,target,categórico codificado como inteiro,"-1, 1",0,2,55.69425599276345

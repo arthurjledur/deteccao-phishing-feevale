@@ -1,0 +1,10 @@
+Executando: Arvore de Decisao
+Executando: Random Forest
+Executando: Regressao Logistica
+Relat├│rio PDF gerado: C:\Users\ArthurLedur-Dualcon\Documents\Codex\2026-11-26\esse-tra\work\projeto\Projeto_Phishing_Arthur\Relatorio_Final_Resultados_Reais.pdf
+
+EXPERIMENTO CONCLUIDO
+           algoritmo  acuracia  precisao_macro  recall_macro  f1_macro  treinamento_segundos
+      Random Forest  0.970715        0.971113      0.969559  0.970282              0.549837
+  Arvore de Decisao  0.960651        0.960430      0.959821  0.960106              0.011469
+Regressao Logistica  0.928313        0.928589      0.926038  0.927164              0.016636

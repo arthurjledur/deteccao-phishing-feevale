@@ -1,0 +1,49 @@
+{
+  "github": "https://github.com/arthurjledur/deteccao-phishing-feevale",
+  "data": "26/11/2026",
+  "vetores_teste_repetidos_no_treino": 1455,
+  "categoria_mais_concentrada": 1,
+  "contagem_mais_concentrada": 10579,
+  "origem": "UCI Phishing Websites, ID 327",
+  "url": "https://archive.ics.uci.edu/dataset/327/phishing+websites",
+  "instancias": 11055,
+  "atributos_entrada": 30,
+  "atributos_totais": 31,
+  "target": "Result",
+  "classes": {
+    "-1": "Phishing",
+    "1": "Legítimo"
+  },
+  "distribuicao": {
+    "-1": 4898,
+    "1": 6157
+  },
+  "atributos_com_faltantes": 0,
+  "total_faltantes": 0,
+  "mais_desbalanceado": {
+    "nome": "RightClick",
+    "frequencia_majoritaria_pct": 95.69425599276346
+  },
+  "divisao": {
+    "treino": 8844,
+    "teste": 2211,
+    "estratificada": true,
+    "semente": 42
+  },
+  "modelo_melhor_validacao": "Random Forest",
+  "modelo_pior_validacao": "Regressao Logistica",
+  "arquivo_original_sha256": "3bcf93b1612306537ee2737751f1bac185b2a77886ab376644c3bf0c7f7cb3e6",
+  "ambiente": {
+    "python": "3.12.14",
+    "sistema": "Windows-11-10.0.26300-SP0",
+    "sklearn": "1.7.2",
+    "pandas": "3.0.1",
+    "numpy": "2.3.5",
+    "scipy": "1.16.3",
+    "matplotlib": "3.10.7",
+    "joblib": "1.5.2",
+    "cpu": "Intel Core 5 120U",
+    "cpus_logicas": 12,
+    "ram_gib": "15.69"
+  }
+}
